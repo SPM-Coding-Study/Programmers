@@ -1,2 +1,3 @@
-# Programmers
-Programmers Python 기초&amp;입문 코드 스터디
+# Programmers 
+2024 SPM Lab Coding Study
+Goal: Becoming a coding master
